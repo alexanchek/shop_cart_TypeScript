@@ -1,7 +1,7 @@
 ## Used Technologies
 
 - Type Script
-= React
+-  React
 - Hooks: UseState, UseQuery
 - Fetch
 - Material UI
